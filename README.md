@@ -1,1 +1,1 @@
-# hexlet-git
+# Hexlet Git Project
